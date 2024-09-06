@@ -1,4 +1,3 @@
-"# OntoDrift" 
 OntoDrift is an approach to detect and assess the semantic drift among timely-distinct versions of an ontology. The semantic drift is evaluated at the concept level, by considering the main features involved in an ontology concept (e.g., intention, extension, labels, URIs, etc.) and at the structural level, by inspecting the taxonomic relations among concepts (e.g., subclass, superclass, equivalent class). New measures are defined to evaluate the semantic drift among individual concepts from different ontology versions, and among entire ontology versions. OntoDrift extends identity-based approaches to assess the drift among ontology versions not only on concepts in common among versions, but also on concepts added and removed during the ontology evolution to improve the drift assessment. OntoDrift can also be run over big-sized ontology versions.
 
 Read more about OntoDrift at https://ceur-ws.org/Vol-2821/paper1.pdf 
